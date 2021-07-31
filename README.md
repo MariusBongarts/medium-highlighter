@@ -1,5 +1,9 @@
 # Medium text highlighter chrome extension
 
+## Medium article
+
+Repository for medium article [How to Build the Medium Text-Highlighter as a Chrome Extension with Web Components](https://medium.com/@mariusbongarts11/how-to-build-the-medium-text-highlighter-as-a-chrome-extension-with-web-components-b3feccddcd01).
+
 ## Installation
 
 ### Installation of packages
