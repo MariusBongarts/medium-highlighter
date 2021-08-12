@@ -1,5 +1,3 @@
-# Medium text highlighter chrome extension
-
 ## Medium article
 
 Repository for medium article [Share Code between React Client and Express Server](https://medium.com/@mariusbongarts11/share-code-between-react-client-and-express-server-5dc0977faa76).
